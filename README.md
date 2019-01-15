@@ -1,2 +1,2 @@
 # MachineLearningTraining
-Notebooks for Fun ML by Gant
+All the great wisdom I can muster in Notebooks.
